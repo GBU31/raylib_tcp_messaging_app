@@ -1,5 +1,5 @@
 # raylib_tcp_messaging_app
-simple tcp messaging app using raylib
+Simple tcp messaging app using raylib
 
 ## Build and run application
 
